@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+    width: 100%
+   }
+   
+   .Bulb {
+       width: 300px;
+       height: 300px;
+       position: fixed
+   }
+   
+   #OnBulb {
+       visibility: hidden;
+   }
+   
+   #OffBulb {
+       visibility: visible;
+   }
+   
+   #Button {
+       background-image: url("https://media.istockphoto.com/id/959978484/photo/red-round-blank-red-button.jpg?s=170667a&w=0&k=20&c=ebJQ9mjvbUrLelDa0hgUagbO7_NKE8VUD4BT5R1FbKc=");
+       background-size: cover;
+       width: 150px;
+       height: 150px;
+       margin-left: 300px;
+   }
